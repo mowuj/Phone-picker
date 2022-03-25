@@ -3,36 +3,37 @@
     "id": "1",
     "price": 250,
     "name": "Iphone 11",
-    "img":"https://www.freepik.com/free-vector/smartphone-realistic-design_6198233.htm#&position=4&from_view=detail#&position=4&from_view=detail"
+    "img":"https://raw.githubusercontent.com/mowuj/phone-images/main/gelaxy%20a03s.jpg"
   },
   {
     "id": "2",
     "price": 285,
     "name": "Oppo",
-    "img":"https://www.freepik.com/free-vector/smartphone-realistic-design_6198233.htm#&position=4&from_view=detail#&position=4&from_view=detail"
+    "img":"https://github.com/mowuj/phone-images/blob/main/gelaxy%20a03s.jpg?raw=true",
+    "company":"Oppo"
   },
   {
     "id": "3",
     "price": 165,
     "name": "Vivo",
-    "img":"https://www.freepik.com/free-vector/smartphone-realistic-design_6198233.htm#&position=4&from_view=detail#&position=4&from_view=detail"
+    "img":"https://raw.githubusercontent.com/mowuj/phone-images/main/gelaxy%20a03s.jpg"
   },
   {
     "id": "4",
     "price": 149,
     "name": "Samsung",
-    "img":"https://www.freepik.com/free-vector/smartphone-realistic-design_6198233.htm#&position=4&from_view=detail#&position=4&from_view=detail"
+    "img":"https://raw.githubusercontent.com/mowuj/phone-images/main/gelaxy%20a03s.jpg"
   },
   {
     "id": "5",
     "price": 138,
     "name": "XI",
-    "img":"https://www.freepik.com/free-vector/smartphone-realistic-design_6198233.htm#&position=4&from_view=detail#&position=4&from_view=detail"
+    "img":"https://raw.githubusercontent.com/mowuj/phone-images/main/gelaxy%20a03s.jpg"
   },
   {
     "id": "6",
     "price": 197,
     "name": "Iphone 12",
-    "img":"https://www.freepik.com/free-vector/smartphone-realistic-design_6198233.htm#&position=4&from_view=detail#&position=4&from_view=detail"
+    "img":"https://raw.githubusercontent.com/mowuj/phone-images/main/gelaxy%20a03s.jpg"
   }
 ]
