@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "price": 250,
+    "name": "Iphone 11",
+    "img":"https://www.freepik.com/free-vector/smartphone-realistic-design_6198233.htm#&position=4&from_view=detail#&position=4&from_view=detail"
+  },
+  {
+    "id": "2",
+    "price": 285,
+    "name": "Oppo",
+    "img":"https://www.freepik.com/free-vector/smartphone-realistic-design_6198233.htm#&position=4&from_view=detail#&position=4&from_view=detail"
+  },
+  {
+    "id": "3",
+    "price": 165,
+    "name": "Vivo",
+    "img":"https://www.freepik.com/free-vector/smartphone-realistic-design_6198233.htm#&position=4&from_view=detail#&position=4&from_view=detail"
+  },
+  {
+    "id": "4",
+    "price": 149,
+    "name": "Samsung",
+    "img":"https://www.freepik.com/free-vector/smartphone-realistic-design_6198233.htm#&position=4&from_view=detail#&position=4&from_view=detail"
+  },
+  {
+    "id": "5",
+    "price": 138,
+    "name": "XI",
+    "img":"https://www.freepik.com/free-vector/smartphone-realistic-design_6198233.htm#&position=4&from_view=detail#&position=4&from_view=detail"
+  },
+  {
+    "id": "6",
+    "price": 197,
+    "name": "Iphone 12",
+    "img":"https://www.freepik.com/free-vector/smartphone-realistic-design_6198233.htm#&position=4&from_view=detail#&position=4&from_view=detail"
+  }
+]
