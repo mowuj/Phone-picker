@@ -2,38 +2,45 @@
   {
     "id": "1",
     "price": 250,
-    "name": "Iphone 11",
-    "img":"https://raw.githubusercontent.com/mowuj/phone-images/main/gelaxy%20a03s.jpg"
+    "name": "Iphone 12",
+    "img":"https://raw.githubusercontent.com/mowuj/phone-images/main/iphone12.jpg"
+
   },
   {
     "id": "2",
     "price": 285,
-    "name": "Oppo",
-    "img":"https://github.com/mowuj/phone-images/blob/main/gelaxy%20a03s.jpg?raw=true",
-    "company":"Oppo"
+    "name": "Gelaxy A51",
+    "img":"https://raw.githubusercontent.com/mowuj/phone-images/main/gelaxy%20a51.jpg",
+    "company":"Samsung"
   },
   {
     "id": "3",
     "price": 165,
-    "name": "Vivo",
-    "img":"https://raw.githubusercontent.com/mowuj/phone-images/main/gelaxy%20a03s.jpg"
+    "name": "Redmi Mi 10",
+    "img":"https://raw.githubusercontent.com/mowuj/phone-images/main/mi%2010.jpg"
   },
   {
     "id": "4",
     "price": 149,
-    "name": "Samsung",
-    "img":"https://raw.githubusercontent.com/mowuj/phone-images/main/gelaxy%20a03s.jpg"
+    "name": "Oppo A 17",
+    "img":"https://raw.githubusercontent.com/mowuj/phone-images/main/oppo%2017.jpg"
   },
   {
     "id": "5",
     "price": 138,
-    "name": "XI",
-    "img":"https://raw.githubusercontent.com/mowuj/phone-images/main/gelaxy%20a03s.jpg"
+    "name": "Oppo A 92",
+    "img":"https://raw.githubusercontent.com/mowuj/phone-images/main/oppo%20a92.jpg"
   },
   {
     "id": "6",
     "price": 197,
-    "name": "Iphone 12",
-    "img":"https://raw.githubusercontent.com/mowuj/phone-images/main/gelaxy%20a03s.jpg"
+    "name": "Vivo V9",
+    "img":"https://raw.githubusercontent.com/mowuj/phone-images/main/vivo-V19.jpg"
+  },
+  {
+    "id": "7",
+    "price": 197,
+    "name": "Vivo Y22",
+    "img":"https://raw.githubusercontent.com/mowuj/phone-images/main/vivo-y22g.jpg"
   }
 ]

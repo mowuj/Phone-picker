@@ -4,7 +4,6 @@ import {BsFillCartPlusFill} from "react-icons/bs"
 const Product = (props) => {
     const {addToCart, product} = props;
     const { name,price,img,company } =product;
-    console.log(name)
     return (
         <div className='product'>
             <img src={img} alt="" />

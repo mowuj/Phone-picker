@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import Card from '../Card/Card';
+import Cart from '../Cart/Cart';
 import Product from '../Product/Product';
 import './Shop.css'
 const Shop = () => {
@@ -7,11 +7,21 @@ const Shop = () => {
     // console.log(product)
     const[cart,setCart]=useState([])
     const addToCart = (phone) => {
-        console.log(phone)
+
         const newCart=[...cart,phone]
         setCart(newCart)
     }
-
+    const chooseItem = () => {
+        const newProduct = [];
+        const oneItem=Math.floor( Math.random() *cart.length )
+        const newOne = (cart[oneItem])
+        newProduct.push(newOne)
+        setCart(newProduct)
+    }
+    const reset = () => {
+        const newCart = [];
+        setCart(newCart);
+}
     useEffect(() => {
         fetch('data.json')
         .then(res=>res.json())
@@ -30,9 +40,11 @@ const Shop = () => {
             <div className='cart-container'>
                 <h2>Selected Items</h2>
                 {
-                    cart.map((item) => (<Card key={item.id} name={ item.name} img={item.img}></Card>))
+                    cart.map((item) => (<Cart key={item.id} name={ item.name} img={item.img}></Cart>))
                 }
-                
+                {/* <h1>{choise}</h1> */}
+                <button onClick={chooseItem}>Choise one</button>
+                <button onClick={reset}>Reset</button>
             </div>
         </div>
     );
