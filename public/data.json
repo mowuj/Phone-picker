@@ -3,44 +3,64 @@
     "id": "1",
     "price": 250,
     "name": "Iphone 12",
-    "img":"https://raw.githubusercontent.com/mowuj/phone-images/main/iphone12.jpg"
-
+    "img":"https://raw.githubusercontent.com/mowuj/phone-images/main/iphone12.jpg",
+    "company":"Apple"
   },
   {
     "id": "2",
     "price": 285,
     "name": "Gelaxy A51",
-    "img":"https://raw.githubusercontent.com/mowuj/phone-images/main/gelaxy%20a51.jpg",
+    "img":"https://raw.githubusercontent.com/mowuj/phone-images/main/gelaxyy%2051.jpg",
     "company":"Samsung"
   },
   {
     "id": "3",
     "price": 165,
     "name": "Redmi Mi 10",
-    "img":"https://raw.githubusercontent.com/mowuj/phone-images/main/mi%2010.jpg"
+    "img":"https://raw.githubusercontent.com/mowuj/phone-images/main/mi%2010.jpg",
+    "company":"Xiaomi"
   },
   {
     "id": "4",
     "price": 149,
-    "name": "Oppo A 17",
-    "img":"https://raw.githubusercontent.com/mowuj/phone-images/main/oppo%2017.jpg"
+    "name": "Oppo F 17",
+    "img":"https://raw.githubusercontent.com/mowuj/phone-images/main/OppoF17Pro.jpg",
+    "company":"Oppo"
   },
   {
     "id": "5",
     "price": 138,
     "name": "Oppo A 92",
-    "img":"https://raw.githubusercontent.com/mowuj/phone-images/main/oppo%20a92.jpg"
+    "img":"https://raw.githubusercontent.com/mowuj/phone-images/main/oppo%20a92.jpg",
+    "company":"Oppo"
   },
   {
     "id": "6",
     "price": 197,
     "name": "Vivo V9",
-    "img":"https://raw.githubusercontent.com/mowuj/phone-images/main/vivo-V19.jpg"
+    "img":"https://raw.githubusercontent.com/mowuj/phone-images/main/vivo-v9-6gb.jpg",
+    "company":"Vivo"
   },
+  
   {
     "id": "7",
     "price": 197,
     "name": "Vivo Y22",
-    "img":"https://raw.githubusercontent.com/mowuj/phone-images/main/vivo-y22g.jpg"
+    "img":"https://raw.githubusercontent.com/mowuj/phone-images/main/VivoV20SE.jpg",
+    "company":"Vivo"
+  },
+  {
+    "id": "8",
+    "price": 197,
+    "name": "Vivo V23",
+    "img":"https://raw.githubusercontent.com/mowuj/phone-images/main/vivo-V23-5G-1.v2-800x800.png",
+    "company":"Vivo"
+  },
+  {
+    "id": "9",
+    "price": 197,
+    "name": "Redmi Note 10",
+    "img":"https://raw.githubusercontent.com/mowuj/phone-images/main/note%2010.jpg",
+    "company":"Xiaomi"
   }
 ]
