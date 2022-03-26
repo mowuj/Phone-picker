@@ -42,7 +42,7 @@ const QusAns = () => {
             <p className='react'>React implements a virtual DOM that is basically a DOM tree.
                 So when it needs to read or write to the DOM it will use
                 virtual DOM.Diff algorithm manage the process.Then the virtual
-                DOM will find and update Browser DOM esialy.
+                DOM will find and update Browser DOM easily.
             </p>
         </div>
         

@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Phone Picker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was phone picker  [phone picker](https://ornate-salamander-6f305f.netlify.app/).
 
 ## Available Scripts
 
