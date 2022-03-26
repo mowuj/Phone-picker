@@ -1,0 +1,21 @@
+.ans{
+    /* display: flex;
+    flex-direction: column; */
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: flex-start;
+    text-align: start;
+}
+.react{
+    text-align: start;
+    margin: 10px 20px;
+}
+@media screen and (max-width:650px) {
+    .ans{
+        grid-template-columns:1fr;
+    }
+    .react{
+        margin: 0 10px;
+    }
+    
+}
