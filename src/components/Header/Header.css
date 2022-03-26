@@ -1,3 +1,6 @@
 .header{
     position: sticky;
 }
+.header-text{
+    padding-top: 20px;
+}

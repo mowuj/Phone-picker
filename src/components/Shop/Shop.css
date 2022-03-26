@@ -15,16 +15,16 @@
 }
 .btn-item{
     border: none;
-    
     border-radius: 0px 0px 8px 8px;
     font-size: 1.25rem;
-    padding: 5px;
-    margin: 0 5px;
-    background-color: mintcream;
+    padding: 7px 15px;
+    margin: 5px 5px;
+    /* background-color: mintcream; */
+    background-color: rgb(248, 190, 246);
     
 }
 .btn-item:hover{
-    background-color: rgb(248, 190, 246);
+    background-color: rgb(248, 94, 243);
 }
 @media screen and (max-width:1100px) {
 

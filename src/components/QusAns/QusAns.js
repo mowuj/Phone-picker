@@ -4,8 +4,8 @@ const QusAns = () => {
     return (
         <div>
             <div className='qus-ans'>
-            <h2>Difference between Props and State</h2>
-            <div className='ans'>
+            <h2>Difference between Props and State?</h2>
+            <div className='answer'>
                 <div>
                 <ul>
                 <li>
@@ -33,7 +33,10 @@ const QusAns = () => {
                 </li>
                 <li>State holds information about the components.</li>
                 <li>State Can not be accessed by child components.</li>
-                <li>Stateless components can not have state.</li>
+                            <li>Stateless components can not have state.Total process
+                                work mainly in 3 stage,mounting then updating and then 
+                                unmounting.
+                </li>
             </ul>
             </div>
             </div>
@@ -42,7 +45,8 @@ const QusAns = () => {
             <p className='react'>React implements a virtual DOM that is basically a DOM tree.
                 So when it needs to read or write to the DOM it will use
                 virtual DOM.Diff algorithm manage the process.Then the virtual
-                DOM will find and update Browser DOM easily.
+                DOM will find and update Browser DOM easily.Total work process 
+                under 3 main stage,mounting then updating and last stage is unmounting.
             </p>
         </div>
         
